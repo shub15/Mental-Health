@@ -1,0 +1,299 @@
+.feelingBetter {
+    position: absolute;
+    top: 139px;
+    left: 14px;
+    font-size: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 497px;
+    height: 112px;
+}
+.startsWithA {
+    position: absolute;
+    top: 214px;
+    left: 77px;
+    font-size: 64px;
+}
+.muchMoreThan {
+    margin: 0;
+}
+.muchMoreThanContainer1 {
+    width: 100%;
+}
+.muchMoreThanContainer {
+    position: absolute;
+    top: 294px;
+    left: 47px;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    width: 646px;
+    height: 133px;
+}
+.landingPageChild {
+    position: absolute;
+    top: 433px;
+    left: 61px;
+    border-radius: 30px;
+    background-color: #ade0c8;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 335px;
+    height: 73px;
+}
+.landingPageItem {
+    position: absolute;
+    top: 433px;
+    left: 419px;
+    border-radius: 30px;
+    background-color: rgba(217, 217, 217, 0.15);
+    border: 4px solid #000;
+    box-sizing: border-box;
+    width: 335px;
+    height: 73px;
+    cursor: pointer;
+}
+.individualTherapy {
+    position: absolute;
+    top: 455px;
+    left: 97px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 264px;
+    height: 33px;
+    cursor: pointer;
+}
+.solutionsFromAi {
+    position: absolute;
+    top: 451px;
+    left: 436px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 302px;
+    height: 37px;
+}
+.landingPageInner {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 685px);
+    background-color: rgba(173, 224, 200, 0.76);
+    width: 1370px;
+    height: 84px;
+}
+.unionIcon {
+    position: relative;
+    border-radius: 15px;
+    width: 379.7px;
+    height: 285px;
+    object-fit: cover;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 560px;
+    left: 0px;
+    background-color: #ade0c8;
+    width: 1370px;
+    height: 578px;
+}
+.vector12 {
+    position: absolute;
+    top: 863px;
+    left: 226px;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+.findTherapyExperts {
+    position: absolute;
+    top: 991px;
+    left: 181px;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Inter;
+    color: #490f00;
+    display: inline-block;
+    width: 189px;
+}
+.chatWithAi {
+    position: absolute;
+    top: 1020px;
+    left: 628px;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Inter;
+    color: #490f00;
+    display: inline-block;
+    width: 160px;
+}
+.aBetterAid {
+    position: absolute;
+    top: 1027px;
+    left: 1023px;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Inter;
+    color: #490f00;
+    display: inline-block;
+    width: 190px;
+}
+.image3Icon {
+    position: absolute;
+    top: 857px;
+    left: 639px;
+    width: 124px;
+    height: 127px;
+    object-fit: cover;
+}
+.connectWithLicensed {
+    position: absolute;
+    top: 555px;
+    left: 174px;
+    font-size: 45px;
+    display: flex;
+    font-family: 'Inria Sans';
+    color: #490f00;
+    align-items: center;
+    justify-content: center;
+    width: 1011px;
+    height: 208px;
+}
+.meetYourVirtual {
+    margin: 0;
+    font-size: 48px;
+}
+.meetYourVirtualContainer {
+    position: absolute;
+    top: 1099px;
+    left: 543px;
+    display: flex;
+    font-family: 'Inria Sans';
+    align-items: center;
+    width: 775px;
+    height: 518px;
+}
+.personalizedTherapistBeyondContainer {
+    position: absolute;
+    top: 1520px;
+    left: 23px;
+    display: flex;
+    font-family: 'Inria Sans';
+    align-items: center;
+    width: 615px;
+    height: 405px;
+}
+.welcomeToApp {
+    position: absolute;
+    top: 763px;
+    left: 246px;
+    font-size: 16px;
+    font-family: 'Inria Sans';
+    color: #490f00;
+    white-space: pre-wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 821px;
+}
+.image4Icon {
+    position: absolute;
+    top: 1201px;
+    left: 105px;
+    width: 319px;
+    height: 319px;
+    object-fit: cover;
+}
+.image5Icon {
+    position: absolute;
+    top: 1634px;
+    left: 876px;
+    width: 309px;
+    height: 315px;
+    object-fit: cover;
+}
+.image6Icon {
+    position: absolute;
+    top: 869px;
+    left: 1075px;
+    width: 115px;
+    height: 115px;
+    object-fit: cover;
+}
+.landingPageChild1 {
+    position: absolute;
+    top: 1986px;
+    left: 0px;
+    background-color: #ade0c8;
+    width: 1370px;
+    height: 145px;
+}
+.usefulLinks {
+    position: absolute;
+    top: 1995px;
+    left: 23px;
+    font-family: 'Inria Sans';
+    color: #2797d4;
+    white-space: pre-wrap;
+}
+.contactUs {
+    position: absolute;
+    top: 2048px;
+    left: 23px;
+    font-family: 'Inria Sans';
+}
+.vectorIcon {
+    position: absolute;
+    height: 1.55%;
+    width: 2.85%;
+    top: 94.4%;
+    right: 5.33%;
+    bottom: 4.05%;
+    left: 91.82%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.aboutUs {
+    width: 103px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 42px;
+    flex-shrink: 0;
+}
+.services {
+    position: relative;
+}
+.aboutUsParent {
+    position: absolute;
+    top: 42px;
+    left: 788px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 48px;
+    font-size: 24px;
+}
+.backButtonIcon {
+    position: absolute;
+    top: 27px;
+    left: 1289px;
+    width: 45px;
+    height: 45px;
+    overflow: hidden;
+}
+.landingPage {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 2124px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 32px;
+    color: #000;
+    font-family: Judson;
+}
